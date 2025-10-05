@@ -15,9 +15,8 @@
 - "Grand Final Resconnect 2024"
 
 ## 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
 - [Portfolio/Website](https://your-website.com)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:lephuong14052004@gmail.com)
 
 ---
 
