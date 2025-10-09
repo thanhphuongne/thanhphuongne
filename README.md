@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with optimizing CI/CD pipelines.
 - 💬 Ask me about JavaScript, C#, or backend, front-end development.
 - 📫 How to reach me: Discord: ltp.
-- 😄 Pronouns: he/him.
+-  Pronouns: he/him.
 - ⚡ Fun fact: I once coded a website in 48 hours for a hackathon!.
 
 ## 🏆 Achievements
