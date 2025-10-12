@@ -54,7 +54,6 @@
 
 ###
 ## 📬 Connect with Me
-- [Portfolio/Website](https://your-website.com)
 - [Email](mailto:lephuong14052004@gmail.com)
 
 ---
