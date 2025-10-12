@@ -15,7 +15,7 @@
 - "Grand Final Resconnect 2024"
 ###
 
-<h2 align="left">Language and tool</h2>
+<h2 align="left">Languages and tools</h2>
 
 ###
 
