@@ -58,4 +58,4 @@
 
 ---
 
-**Thanks for visiting my profile!** Feel free to check out my repositories or reach out for a chat. 😄
+**Thanks for visiting my profile!** Feel free to check out my repositories or reach out for a chat. 
