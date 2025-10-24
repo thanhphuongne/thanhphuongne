@@ -52,7 +52,7 @@
 </div>
 
 ###
-### 📬 Connect with Me
+## 📬 Connect with Me
 - [Email](mailto:lephuong14052004@gmail.com)
 
 ---
