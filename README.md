@@ -2,6 +2,7 @@
 # 👋 Hi, I'm Phuong!
 🚀 Full-Stack Developer
 
+
 ## About Me
 - 👯 I’m looking to collaborate on open-source Back-end and Front-end projects or AI-driven apps.
 - 🤔 I’m looking for help with optimizing CI/CD pipelines.
