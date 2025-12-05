@@ -10,6 +10,7 @@
 - 🗣️ Pronouns: he/him.
 - ⚡ Fun fact: I once coded a website in 48 hours for a hackathon!.
 
+
 ## 🏆 Achievements
 - "Won 1st place in Hackathon ICJS 2023"
 - "Grand Final Resconnect 2024"
